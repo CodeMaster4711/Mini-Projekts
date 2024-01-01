@@ -1,0 +1,3 @@
+D:/Privat/Studium/INF-B1/Eigene Projekte/Engine/cmake-build-debug/CMakeFiles/Engine.dir
+D:/Privat/Studium/INF-B1/Eigene Projekte/Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Privat/Studium/INF-B1/Eigene Projekte/Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
